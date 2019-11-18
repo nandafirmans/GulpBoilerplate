@@ -1,0 +1,29 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gulp serve",
+    "build": "gulp build"
+  },
+  "author": "nandafirmans",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nandafirmans/GulpBoilerplate.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-file-include": "^2.1.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify-es": "^2.0.0"
+  }
+}
